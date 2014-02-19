@@ -2,4 +2,7 @@ Hi,
 
 This is for only learning purpose of git command 
 
-and second line commit 
+and second line commit
+
+Edited from PhpStrom
+
