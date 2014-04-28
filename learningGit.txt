@@ -24,6 +24,8 @@ Edited from PhpStrom
 	// then finally push to master
 		git push origin NewBranchName
 	
-
+	To merge this branch i.e mergeBranch into master 
+		git checkout master
+		git merge mergeBranch
 28-May-2014  : Cherry picked
 	 
