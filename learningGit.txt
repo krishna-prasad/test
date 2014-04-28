@@ -27,5 +27,6 @@ Edited from PhpStrom
 	To merge this branch i.e mergeBranch into master 
 		git checkout master
 		git merge mergeBranch
+		git push origin master
 28-May-2014  : Cherry picked
 	 
