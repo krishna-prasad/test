@@ -28,5 +28,6 @@ Edited from PhpStrom
 		git checkout master
 		git merge mergeBranch
 		git push origin master
-28-May-2014  : Cherry picked
-	 
+
+	After merging into master delete the mergeBranch
+		git branch -d mergeBranch	 
