@@ -6,8 +6,19 @@ and second line commit
 
 Edited from PhpStrom
 
-28-May-2014 : Creating branch and pushing it to github
+28-May-2014 : Branching and merge 
+	Creating branch and pushing it to github
 
+	// To create a new branch from master
+		git branch master
+		git checkout -b NewBranchName
+	// Commit something in the new Branch 
+		git branch // To check the current branch 
+		git add ChangedFileName // to add for commit
+		git commit -m "Coment what you have added"
+	// then finally push to master
+		git push origin NewBranchName
+	
 
 28-May-2014  : Cherry picked
 	 
