@@ -5,6 +5,11 @@ This is for only learning purpose of git command
 and second line commit
 
 Edited from PhpStrom
+// This section merge from createBranch  and the command for merging is 
+	// To go to this branch
+		git checkout mergeBranch
+	// To merge createBranch into this branch i.e mergeBranch
+		git merge createBranch
 
 28-May-2014 : Branching and merge 
 	Creating branch and pushing it to github
