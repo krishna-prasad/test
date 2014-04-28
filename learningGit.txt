@@ -5,6 +5,17 @@ This is for only learning purpose of git command
 and second line commit
 
 Edited from PhpStrom
+How to reset to previous commit 
+	Find the commit you want to reset to:
+
+		git log
+	Once you have the hash:
+
+		git reset --hard <hash>
+	And to push onto the remote:
+
+		git push -f <remote> <branch>
+
 
 28-May-2014  : Cherry picked
 	 
