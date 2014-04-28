@@ -30,4 +30,12 @@ Edited from PhpStrom
 		git push origin master
 
 	After merging into master delete the mergeBranch
-		git branch -d mergeBranch	 
+		git branch -d mergeBranch	
+
+	How to delete the branch remotely 
+		git push origin --delete  mergeBranch
+	OR 
+		git push origin --delete BranchName 
+
+
+ 
