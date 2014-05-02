@@ -49,4 +49,12 @@ How to reset to previous commit
 		git push origin --delete BranchName 
 
 
- 
+
+
+02-May-2014 : How to remove a particular commit hash, after and before should be same
+ Now my current hash is  : b6dbe487daf6b30e75c451e6116b98e90e170418
+
+ For Delete :  This line will be deleted in the next commit
+  
+ After this line something will be added so that we can test that after the commit is remains same.
+ Lets add first line in current commit 
