@@ -58,3 +58,5 @@ How to reset to previous commit
   
  After this line something will be added so that we can test that after the commit is remains same.
  Lets add first line in current commit 
+
+ After adding above line, just adding one line 
