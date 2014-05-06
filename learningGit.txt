@@ -64,4 +64,4 @@ How to reset to previous commit
 
  Now this is the third commit, this should be here after git revert 'second hash'
 
- 
+ added one line for which should be removed in next commit
