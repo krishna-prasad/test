@@ -49,4 +49,10 @@ How to reset to previous commit
 		git push origin --delete BranchName 
 
 
+
+=========
+
+How do I edit an incorrect commit message in Git?
+	git commit --amend -m "New commit message"
+
  
