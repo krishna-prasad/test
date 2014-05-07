@@ -55,4 +55,8 @@ How to reset to previous commit
 How do I edit an incorrect commit message in Git?
 	git commit --amend -m "New commit message"
 
- 
+
+
+How to add all modified files in git
+
+git status -s  | awk '{print $2}' | xargs git add 
