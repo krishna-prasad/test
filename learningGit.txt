@@ -74,4 +74,4 @@ How to removed a particular commit
 
 	added second commit at t2
 
- 
+	Third commit at t3 
