@@ -72,6 +72,6 @@ How to removed a particular commit
 
 	Added first time in t1 time 
 
-
+	added second commit at t2
 
  
