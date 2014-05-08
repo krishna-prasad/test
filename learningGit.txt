@@ -74,4 +74,11 @@ How to removed a particular commit
 
 
 
-	Third commit at t3 
+	Third commit at t3
+
+==========
+How to reset all local changes forcefully
+
+	git reset --hard
+
+ 
