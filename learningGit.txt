@@ -70,7 +70,7 @@ How to removed a particular commit
 
 	
 
-
+	Added first time in t1 time 
 
 
 
