@@ -81,4 +81,11 @@ How to reset all local changes forcefully
 
 	git reset --hard
 
+
+=============
+List of the all branches in the git repo:
+	git branch -a
+  which will list all the branch created the master repo
+
+
  
